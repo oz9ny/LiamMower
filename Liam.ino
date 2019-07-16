@@ -39,6 +39,9 @@
   - Signal sensitivity factor in Definition.h       (Planned)
   - Slower mowing if cutter motor is using much current (Planned)
   ---------------------------------------------------------------
+  
+  oz9ny: Fix Display
+
 */
 
 #include <Servo.h>
